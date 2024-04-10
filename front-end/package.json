@@ -1,6 +1,6 @@
 {
   "name": "front-end",
-  "proxy": "https://login-page-jfi6.onrender.com",
+  "proxy": "https://login-vxkt.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
